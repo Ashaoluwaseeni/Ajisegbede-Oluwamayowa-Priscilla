@@ -1,7 +1,7 @@
 -👋 Hi, I’m Ajisegbede Oluwamayowa Priscilla@Ashaoluwaseeni
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Frontend Development with hertech trail foundation
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me via my email: ashaoluwaseeni@gmail.com
 - 😊 Am so happy to be in part of the Cyber Security famz
 <!---
